@@ -11,21 +11,21 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'umesh-verma',
+    twitter: 'itsuv',
+    // mastodon: 'arifszn@mastodon.social',
     facebook: '',
-    instagram: '',
+    instagram: 'ohhmesh',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // format: userid/username
-    skype: '',
-    telegram: '',
-    website: 'https://arifszn.com',
+    // medium: 'arifszn',
+    // dev: 'arifszn',
+    // stackoverflow: '', // format: userid/username
+    // skype: '',
+    // telegram: '',
+    website: 'https://umesh-verma.github.io',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'itsuv@hotmail.com',
   },
   resume: {
     fileUrl:
@@ -49,31 +49,32 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Alphalake AI',
+      position: 'Full Stack Developer',
+      from: 'Aug 2022',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://alphalake.ai',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'IBM',
+      position: 'Integration Developer',
+      from: 'Jan 2020',
+      to: 'Aug 2022',
+      companyLink: 'https://IBM.com',
     },
+    
   ],
-  /* certifications: [
+   certifications: [
     {
-      name: 'Lorem ipsum',
+      name: 'Azure Fundamental',
       body: 'Lorem ipsum dolor sit amet',
       year: 'March 2022',
       link: 'https://example.com'
     },
-  ], */
+  ], 
   education: [
     {
-      institution: 'Institution Name',
+      institution: 'O.P. Jindal University' ,
       degree: 'Degree',
       from: '2015',
       to: '2019',
